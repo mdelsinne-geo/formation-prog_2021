@@ -1,6 +1,6 @@
 # PROGRAMMATION
-1 - Programmation Orientée Objet
-2 - Environnement de développement
+1. Programmation Orientée Objet
+2. Environnement de développement
 3 - Les variables
 4 - Python
 5 - Les formulaires
