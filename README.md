@@ -1,12 +1,4 @@
-# PROGRAMMATION
-1. Programmation Orientée Objet
-2. Environnement de développement
-3. Les variables
-4. Python
-5. Les formulaires
-6. Les modules
-7. Les procédures
-8. Les choix : if ... else
-9. Les répétitions
-10. Les tableaux / collections / listes
-11. PyQGIS
+<h2>Retrouver l’ensemble du cours, ressources et exercices à l’adresse suivante :</h2>
+<h2>https://github.com/geovendee/formation-prog-20202021</h2>
+<br />
+<h3>MERCI</h3>
